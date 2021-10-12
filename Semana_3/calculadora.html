@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script src="js/calculadora.js"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+</head>
+
+<body>
+    <main>
+        <div>
+            <input class="form" type="number" id="n1">
+            <input class="form" type="number" id="n2"> = <input class="form" type="text" id="result_soma" disabled>
+            <button type="button" onclick="somar()">Somar</button>
+            <button type="button" onclick="limpar()">Limpar</button>
+            <div class="error"></div>
+        </div>
+
+        <div>
+            <input class="form" type="number" id="n1_sub">
+            <input class="form" type="number" id="n2_sub"> = <input class="form" type="text" id="result_sub" disabled>
+            <button type="button" onclick="subtracao()">Subtrair</button>
+            <div class="error"></div>
+        </div>
+
+        <div>
+            <input class="form" type="number" id="n1_mul">
+            <input class="form" type="number" id="n2_mul"> = <input class="form" type="text" id="result_mul" disabled>
+            <button type="button" onclick="multiplicar()">Multiplicar</button>
+            <div class="error"></div>
+        </div>
+
+        <div>
+            <input class="form" type="number" id="n1_div">
+            <input class="form" type="number" id="n2_div"> = <input class="form" type="text" id="result_div" disabled>
+            <button type="button" onclick="dividir()">Dividir</button>
+            <div class="error"></div>
+        </div>
+
+        <div>
+            <input class="form" type="number" id="n1_med">
+            <input class="form" type="number" id="n2_med">
+            <input class="form" type="number" id="n3_med"> = <input class="form" type="text" id="result_media" disabled>
+            <button type="button" onclick="media()">Calcular</button>
+            <div class="error"></div>
+        </div>
+
+        <div id="loop">
+
+        </div>
+        <button type="button" onclick="limpar()">Limpar tudo</button>
+        <button type="button" onclick="exemple_loop()">loop</button>
+        <button type="button" onclick="example_while()">loop while</button>
+        <button type="button" onclick="limpa_for_each()">Limpar com for each</button>
+
+
+    </main>
+</body>
+
+</html>
