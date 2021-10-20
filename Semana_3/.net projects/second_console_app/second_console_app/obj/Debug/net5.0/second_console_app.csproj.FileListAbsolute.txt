@@ -1,0 +1,16 @@
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\second_console_app\second_console_app\bin\Debug\net5.0\second_console_app.exe
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\second_console_app\second_console_app\bin\Debug\net5.0\second_console_app.deps.json
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\second_console_app\second_console_app\bin\Debug\net5.0\second_console_app.runtimeconfig.json
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\second_console_app\second_console_app\bin\Debug\net5.0\second_console_app.runtimeconfig.dev.json
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\second_console_app\second_console_app\bin\Debug\net5.0\second_console_app.dll
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\second_console_app\second_console_app\bin\Debug\net5.0\ref\second_console_app.dll
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\second_console_app\second_console_app\bin\Debug\net5.0\second_console_app.pdb
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\second_console_app\second_console_app\obj\Debug\net5.0\second_console_app.csproj.AssemblyReference.cache
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\second_console_app\second_console_app\obj\Debug\net5.0\second_console_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\second_console_app\second_console_app\obj\Debug\net5.0\second_console_app.AssemblyInfoInputs.cache
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\second_console_app\second_console_app\obj\Debug\net5.0\second_console_app.AssemblyInfo.cs
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\second_console_app\second_console_app\obj\Debug\net5.0\second_console_app.csproj.CoreCompileInputs.cache
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\second_console_app\second_console_app\obj\Debug\net5.0\second_console_app.dll
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\second_console_app\second_console_app\obj\Debug\net5.0\ref\second_console_app.dll
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\second_console_app\second_console_app\obj\Debug\net5.0\second_console_app.pdb
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\second_console_app\second_console_app\obj\Debug\net5.0\second_console_app.genruntimeconfig.cache

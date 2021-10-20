@@ -1,0 +1,16 @@
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\Calculadora+dotnet\Calculadora+dotnet\bin\Debug\net5.0\Calculadora+dotnet.exe
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\Calculadora+dotnet\Calculadora+dotnet\bin\Debug\net5.0\Calculadora+dotnet.deps.json
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\Calculadora+dotnet\Calculadora+dotnet\bin\Debug\net5.0\Calculadora+dotnet.runtimeconfig.json
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\Calculadora+dotnet\Calculadora+dotnet\bin\Debug\net5.0\Calculadora+dotnet.runtimeconfig.dev.json
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\Calculadora+dotnet\Calculadora+dotnet\bin\Debug\net5.0\Calculadora+dotnet.dll
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\Calculadora+dotnet\Calculadora+dotnet\bin\Debug\net5.0\ref\Calculadora+dotnet.dll
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\Calculadora+dotnet\Calculadora+dotnet\bin\Debug\net5.0\Calculadora+dotnet.pdb
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\Calculadora+dotnet\Calculadora+dotnet\obj\Debug\net5.0\Calculadora+dotnet.csproj.AssemblyReference.cache
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\Calculadora+dotnet\Calculadora+dotnet\obj\Debug\net5.0\Calculadora+dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\Calculadora+dotnet\Calculadora+dotnet\obj\Debug\net5.0\Calculadora+dotnet.AssemblyInfoInputs.cache
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\Calculadora+dotnet\Calculadora+dotnet\obj\Debug\net5.0\Calculadora+dotnet.AssemblyInfo.cs
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\Calculadora+dotnet\Calculadora+dotnet\obj\Debug\net5.0\Calculadora+dotnet.csproj.CoreCompileInputs.cache
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\Calculadora+dotnet\Calculadora+dotnet\obj\Debug\net5.0\Calculadora+dotnet.dll
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\Calculadora+dotnet\Calculadora+dotnet\obj\Debug\net5.0\ref\Calculadora+dotnet.dll
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\Calculadora+dotnet\Calculadora+dotnet\obj\Debug\net5.0\Calculadora+dotnet.pdb
+C:\Users\pietro\Desktop\quarentena\log fitesa\c&A\git\Gama-Git\Semana_3\.net projects\Calculadora+dotnet\Calculadora+dotnet\obj\Debug\net5.0\Calculadora+dotnet.genruntimeconfig.cache
